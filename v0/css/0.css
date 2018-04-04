@@ -1,0 +1,53 @@
+nav{
+  background-color:#EFCB68;
+
+}
+
+body{
+   font-family: ‘Courier New’, Courier, monospace;
+   background-color: #E1EFE6;
+}
+
+a:link {
+    color:#160C28;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#160C28;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#160C28;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color:#160C28;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
+}
+
+body {
+  color: black;
+}
+div{
+  color:black;
+  text-align: center;
+}
+.scelte{
+  color:black;
+  background-color:#EFCB68;
+}
